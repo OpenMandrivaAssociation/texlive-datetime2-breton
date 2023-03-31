@@ -1,6 +1,6 @@
 Name:		texlive-datetime2-breton
 Version:	52647
-Release:	1
+Release:	2
 Summary:	Breton language module for the datetime2 package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-breton
