@@ -3,7 +3,7 @@ Version:	52647
 Release:	2
 Summary:	Breton language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-breton
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-breton
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-breton.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-breton.doc.r%{version}.tar.xz
